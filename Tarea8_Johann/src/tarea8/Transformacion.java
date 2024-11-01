@@ -3,6 +3,7 @@ package tarea8;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
 
 import javax.xml.transform.Result;
 import javax.xml.transform.Source;
@@ -31,6 +32,8 @@ public class Transformacion {
 			Transformer transformer = TransformerFactory.newInstance().newTransformer(estilos);
 
 			transformer.transform(datos, result);
+			
+			os.close();
 		} catch (FileNotFoundException e) {
 			System.out.println(e.getMessage());
 		} catch (TransformerConfigurationException e) {
@@ -38,6 +41,8 @@ public class Transformacion {
 		} catch (TransformerFactoryConfigurationError e) {
 			System.out.println(e.getMessage());
 		} catch (TransformerException e) {
+			System.out.println(e.getMessage());
+		} catch (IOException e) {
 			System.out.println(e.getMessage());
 		}
 	}
