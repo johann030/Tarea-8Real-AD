@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos>
+<alumnos>
+<alumno><nia>11111111J</nia><nombre>juan</nombre><apellidos>petro</apellidos><genero>h</genero><fechaNacimiento>2001-03-19</fechaNacimiento><ciclo>dam</ciclo><curso>2</curso><grupo>A</grupo></alumno>
+<alumno><nia>22222222J</nia><nombre>jose</nombre><apellidos>pascual</apellidos><genero>h</genero><fechaNacimiento>2001-03-19</fechaNacimiento><ciclo>adirt</ciclo><curso>1</curso><grupo>a</grupo></alumno>
+<alumno><nia>33333333J</nia><nombre>amanda</nombre><apellidos>rodriguez</apellidos><genero>m</genero><fechaNacimiento>2001-03-19</fechaNacimiento><ciclo>daw</ciclo><curso>2</curso><grupo>b</grupo></alumno>
+<alumno><nia>44444444J</nia><nombre>patricia</nombre><apellidos>medarda</apellidos><genero>h</genero><fechaNacimiento>2001-03-19</fechaNacimiento><ciclo>dam</ciclo><curso>1</curso><grupo>a</grupo></alumno>
+<alumno><nia>06660058J</nia><nombre>johann</nombre><apellidos>conforme</apellidos><genero>h</genero><fechaNacimiento>2001-03-19</fechaNacimiento><ciclo>dam</ciclo><curso>2</curso><grupo>a</grupo></alumno>
+</alumnos>
+</Alumnos>
