@@ -41,9 +41,9 @@
           <td class="titulo">Curso</td>
           <td class="titulo">Grupo</td>
         </tr>
-        <xsl:for-each select="Alumnos/alumnos/alumno">
+        <xsl:for-each select="//alumno">
           <tr>
-            <td class="cuerpo"><xsl:value-of select="nia"/></td>
+            <td class="cuerpo"><xsl:value-of select="NIA"/></td>
             <td class="cuerpo"><xsl:value-of select="nombre"/></td>
             <td class="cuerpo"><xsl:value-of select="apellidos"/></td>
             <td class="cuerpo"><xsl:value-of select="genero"/></td>

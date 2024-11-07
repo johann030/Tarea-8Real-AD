@@ -18,8 +18,8 @@ import javax.xml.transform.stream.StreamSource;
 public class Transformacion {
 	public void transformar() {
 		String xsl = "alumno-xsl.xsl";
-		String xml = "alumnosEtiquetas.xml";
-		File html = new File("misAlumunos.html");
+		String xml = "AlumnosIñigo.xml";
+		File html = new File("misAlumunosiñigo.html");
 
 		try {
 			FileOutputStream os = new FileOutputStream(html);

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+    <alumno>
+        <NIA>55</NIA>
+        <nombre>Alejandro</nombre>
+        <apellidos>Perellon Lopez</apellidos>
+        <genero>H</genero>
+        <fechaNacimiento>2000-05-09</fechaNacimiento>
+        <ciclo>DAM</ciclo>
+        <curso>2</curso>
+        <grupo>A</grupo>
+    </alumno>
+    <alumno>
+        <NIA>56</NIA>
+        <nombre>Juan Carlos</nombre>
+        <apellidos>Lopez Lopez</apellidos>
+        <genero>H</genero>
+        <fechaNacimiento>2001-05-09</fechaNacimiento>
+        <ciclo>DAW</ciclo>
+        <curso>1</curso>
+        <grupo>B</grupo>
+    </alumno>
+    <alumno>
+        <NIA>58</NIA>
+        <nombre>Laura</nombre>
+        <apellidos>Rivera Garcia</apellidos>
+        <genero>M</genero>
+        <fechaNacimiento>2001-01-04</fechaNacimiento>
+        <ciclo>DAM</ciclo>
+        <curso>1</curso>
+        <grupo>A</grupo>
+    </alumno>
+    <alumno>
+        <NIA>59</NIA>
+        <nombre>Meab</nombre>
+        <apellidos>Urro Mazo</apellidos>
+        <genero>H</genero>
+        <fechaNacimiento>1990-04-20</fechaNacimiento>
+        <ciclo>AGA</ciclo>
+        <curso>1</curso>
+        <grupo>A</grupo>
+    </alumno>
+    <alumno>
+        <NIA>59</NIA>
+        <nombre>Ariel</nombre>
+        <apellidos>Lopez Garcia</apellidos>
+        <genero>H</genero>
+        <fechaNacimiento>2005-02-02</fechaNacimiento>
+        <ciclo>CAS</ciclo>
+        <curso>2</curso>
+        <grupo>A</grupo>
+    </alumno>
+</alumnos>

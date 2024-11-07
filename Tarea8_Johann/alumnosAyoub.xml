@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <NIA>12345</NIA>
+        <nombre>Ayoub</nombre>
+        <apellidos>Rehouni</apellidos>
+        <genero>Masculino</genero>
+        <fechaNacimiento>17-09-2000</fechaNacimiento>
+        <ciclo>Segundo</ciclo>
+        <curso>2</curso>
+        <grupo>A</grupo>
+    </alumno>
+    <alumno>
+        <NIA>67890</NIA>
+        <nombre>pepe</nombre>
+        <apellidos>pepe</apellidos>
+        <genero>Femenino</genero>
+        <fechaNacimiento>13/12/2001</fechaNacimiento>
+        <ciclo>Tercer</ciclo>
+        <curso>1</curso>
+        <grupo>B</grupo>
+    </alumno>
+</alumnos>

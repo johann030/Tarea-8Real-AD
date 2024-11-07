@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<alumnos>
+    <alumno>
+        <NIA>12345678</NIA>
+        <nombre>juan</nombre>
+        <apellidos>pérez gómez</apellidos>
+        <genero>masculino</genero>
+        <fechaNacimiento>2005-05-10</fechaNacimiento>
+        <ciclo>informática</ciclo>
+        <curso>1º</curso>
+        <grupo>a</grupo>
+    </alumno>
+    <alumno>
+        <NIA>87654321</NIA>
+        <nombre>maría</nombre>
+        <apellidos>lópez rodríguez</apellidos>
+        <genero>femenino</genero>
+        <fechaNacimiento>2006-07-15</fechaNacimiento>
+        <ciclo>salud</ciclo>
+        <curso>1º</curso>
+        <grupo>b</grupo>
+    </alumno>
+</alumnos>
